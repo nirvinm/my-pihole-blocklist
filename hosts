@@ -4,6 +4,13 @@
 0.0.0.0 m.facebook.com
 0.0.0.0 fbcdn.net
 
+# SwiftKey Telemetry
+0.0.0.0 touchtype-fluency.com
+0.0.0.0 tokens-auth.touchtype-fluency.com
+0.0.0.0 users-auth.touchtype-fluency.com
+0.0.0.0 snippetdata.api.swiftkey.com
+0.0.0.0 jenson.api.swiftkey.com
+0.0.0.0 bibo.api.swiftkey.com
 
 # Junk
 0.0.0.0 taboola.com
