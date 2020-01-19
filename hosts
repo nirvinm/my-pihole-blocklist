@@ -6,12 +6,26 @@
 
 # SwiftKey Telemetry
 0.0.0.0 touchtype-fluency.com
+0.0.0.0 tigger-citadel.touchtype-fluency.com
 0.0.0.0 tokens-auth.touchtype-fluency.com
 0.0.0.0 users-auth.touchtype-fluency.com
 0.0.0.0 snippetdata.api.swiftkey.com
 0.0.0.0 jenson.api.swiftkey.com
 0.0.0.0 bibo.api.swiftkey.com
 
+# China devices
+0.0.0.0 hicloud.com
+0.0.0.0 www.hicloud.com
+0.0.0.0 configserver-drax.platform.hicloud.com
+
+# Annoyances
+0.0.0.0 alerts.ndtv.com
+0.0.0.0 jumbo.zomato.com
+
 # Junk
 0.0.0.0 taboola.com
 0.0.0.0 outbrain.com
+
+# Unknown
+0.0.0.0 fbpigeon.com
+0.0.0.0 graph.fbpigeon.com
