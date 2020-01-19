@@ -18,6 +18,12 @@
 0.0.0.0 www.hicloud.com
 0.0.0.0 configserver-drax.platform.hicloud.com
 
+# Games
+0.0.0.0 king.com
+0.0.0.0 ams.king.com
+0.0.0.0 candycrushsodamobile.king.com
+0.0.0.0 puzzlejoytime.com
+
 # Annoyances
 0.0.0.0 alerts.ndtv.com
 0.0.0.0 jumbo.zomato.com
