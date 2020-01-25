@@ -4,6 +4,9 @@
 0.0.0.0 m.facebook.com
 0.0.0.0 fbcdn.net
 
+# Google
+0.0.0.0 ampproject.net
+
 # SwiftKey Telemetry
 0.0.0.0 touchtype-fluency.com
 0.0.0.0 tigger-citadel.touchtype-fluency.com
@@ -17,6 +20,7 @@
 0.0.0.0 hicloud.com
 0.0.0.0 www.hicloud.com
 0.0.0.0 configserver-drax.platform.hicloud.com
+0.0.0.0 pushtrs6.push.hicloud.com
 
 # Games
 0.0.0.0 king.com
