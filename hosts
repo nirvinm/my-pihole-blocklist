@@ -19,6 +19,7 @@
 # China devices
 0.0.0.0 hicloud.com
 0.0.0.0 www.hicloud.com
+0.0.0.0 query.hicloud.com
 0.0.0.0 configserver-drax.platform.hicloud.com
 0.0.0.0 pushtrs6.push.hicloud.com
 
