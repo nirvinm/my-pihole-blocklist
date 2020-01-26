@@ -4,8 +4,11 @@
 0.0.0.0 m.facebook.com
 0.0.0.0 fbcdn.net
 
-# Google
+# Google AMP
 0.0.0.0 ampproject.net
+0.0.0.0 ampproject.org
+0.0.0.0 cdn.ampproject.org
+0.0.0.0 www-zdnet-com.cdn.ampproject.org
 
 # SwiftKey Telemetry
 0.0.0.0 touchtype-fluency.com
